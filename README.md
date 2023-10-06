@@ -22,6 +22,9 @@ chmod +x ./install-frida-16.1.3-termux.sh
 ./install-frida-16.1.3-termux.sh
 ```
 
+```
+cd .. && rm -rf ./InstallFridaTermux
+```
 
 
 the frida version in this script is:
