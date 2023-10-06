@@ -46,5 +46,5 @@ If you use a physical Phone, and don't know what this mean, just ignore it.
 
 ### uninstall
 ```
-pip uninstall frida
+pip uninstall frida-tools
 ```
