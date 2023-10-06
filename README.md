@@ -18,8 +18,14 @@ chmod +x ./install.sh
 
 ```
 
-check-in frida version:
 
+
+the version frida for is:
+16.1.3
+
+You can change the url in the sh file to download others versions 😀 !
+
+check-in frida version after installing:
 ```
 frida --version
 ```
