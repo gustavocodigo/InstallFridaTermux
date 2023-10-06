@@ -1,21 +1,25 @@
 # InstallFridaTermux
 A simple script to install frida in termux
 
-commands:
+### commands:
 
 ```
 apt update && apt upgrade
-
+```
+```
 pkg install git
-
+```
+```
 git clone https://github.com/gustavocodigo/InstallFridaTermux/
-
+```
+```
 cd ./InstallFridaTermux
-
-chmod +x ./install.sh
-
-./install.sh
-
+```
+```
+chmod +x ./install-frida-16.1.3-termux.sh
+```
+```
+./install-frida-16.1.3-termux.sh
 ```
 
 
@@ -38,4 +42,4 @@ armv7, aarch64
 
 You can add your arch just changing url in the script.
 
-If you use a physical Phone, and don't know what this mean, just ignore it 😀
+If you use a physical Phone, and don't know what this mean, just ignore it.
