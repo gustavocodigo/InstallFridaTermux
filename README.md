@@ -13,6 +13,7 @@ git clone https://github.com/gustavocodigo/InstallFridaTermux/
 cd ./InstallFridaTermux
 
 chmod +x ./install.sh
+
 ./install.sh
 
 ```
