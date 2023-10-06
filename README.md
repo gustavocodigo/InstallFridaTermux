@@ -20,7 +20,8 @@ chmod +x ./install.sh
 
 
 
-the version frida for is:
+the frida version in this script is:
+
 16.1.3
 
 You can change the url in the sh file to download others versions 😀 !
@@ -34,3 +35,7 @@ frida --version
 this script works for:
 
 armv7, aarch64
+
+You can add your arch just changing url in the script.
+
+If you use a physical Phone, and don't know what this mean, just ignore it 😀
