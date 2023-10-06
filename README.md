@@ -1,7 +1,7 @@
 # InstallFridaTermux
 A simple script to install frida in termux
 
-### command:
+### single command:
 
 ```
 apt update && apt upgrade && pkg install git && git clone https://github.com/gustavocodigo/InstallFridaTermux/&&cd ./InstallFridaTermux&&chmod +x ./install-frida-16.1.3-termux.sh&&./install-frida-16.1.3-termux.sh&&cd .. && rm -rf ./InstallFridaTermux
