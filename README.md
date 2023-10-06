@@ -43,3 +43,8 @@ armv7, aarch64
 You can add your arch just changing url in the script.
 
 If you use a physical Phone, and don't know what this mean, just ignore it.
+
+### uninstall
+```
+pip uninstall frida
+```
